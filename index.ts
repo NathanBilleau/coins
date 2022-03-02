@@ -1,4 +1,4 @@
-let stack = 1
+let stack = 20
 
 class Player {
     name: string
